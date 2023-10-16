@@ -11,4 +11,4 @@ Used chatGPT to find a mistake in my flask code where I was making a list of dic
 
 https://www.geeksforgeeks.org/python-datetime-strptime-function/
 
-used above to help figure out chnaging user input
+used above to help figure out changing user input
